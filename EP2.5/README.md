@@ -4,9 +4,13 @@ Calcule a matriz de adjacência (em função da correlação de Pearson para red
 Exemplo de execução:
 
 Nome do arquivo: datExpr.csv
+
 Tipo de rede de adj.: signed
+
 Soft thresholding power (beta): 6
+
 Index do primeiro gene: 0
+
 Index do segundo gene: 5
 
 
